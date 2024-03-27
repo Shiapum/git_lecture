@@ -10,6 +10,9 @@ git add <filename>
 git commit - Save the state of the tracked files.
 git commit -m "message"
 
+If want to add all the files with changes and commit same time we can use: 
+git commit -am "message"
+
 git status - What is happening in my repository.
 git status
 
